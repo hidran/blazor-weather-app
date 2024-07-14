@@ -27,3 +27,4 @@ C:\Users\hidranarias\source\repos\blazor\BlazorWeatherApp\obj\Debug\net8.0\refin
 C:\Users\hidranarias\source\repos\blazor\BlazorWeatherApp\obj\Debug\net8.0\BlazorWeatherApp.pdb
 C:\Users\hidranarias\source\repos\blazor\BlazorWeatherApp\obj\Debug\net8.0\BlazorWeatherApp.genruntimeconfig.cache
 C:\Users\hidranarias\source\repos\blazor\BlazorWeatherApp\obj\Debug\net8.0\ref\BlazorWeatherApp.dll
+C:\Users\hidranarias\source\repos\blazor\BlazorWeatherApp\obj\Debug\net8.0\BlazorWeatherApp.sourcelink.json

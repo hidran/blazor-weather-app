@@ -11,7 +11,7 @@ public class WeatherService
         _options = options.Value;
 
     }
-    public async Task<WeatherResponse> GetWeatherAsync(string city)
+    public async Task<WeatherResponse>? GetWeatherAsync(string city)
     {
       
         var weather = await _httpClient.GetFromJsonAsync<WeatherResponse>($"?key={_options.ApiKey}&q={city}");
